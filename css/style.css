@@ -1015,7 +1015,7 @@ div#loading {
 .grey-area{
 	width:100%;
 	padding:60px 0;
-	color:#fff;
+	color:"red";
 	margin:auto;
 	text-align:center;
 	background-size: cover;
@@ -1024,7 +1024,7 @@ div#loading {
 }
 .talkabout{
 	/*background-color:("red"); */
-	background-image:url("../img/TemplateImg/green.jpeg");
+	background-image:url("../img/TemplateImg/talkabout.jpg");
 }
 .awards{
 	background-image:url("../img/TemplateImg/LiveEvents01.jpg");
