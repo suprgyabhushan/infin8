@@ -956,8 +956,8 @@ div#loading {
 	margin-top:-60px;
     position: absolute;
     z-index: 1000;
-    width: 115px;
-    height: 119px;
+    width: 600px;
+    height: 600px;
     background: url(../img/TemplateImg/loadingimage2.gif) no-repeat;
     cursor: wait;                
     }
@@ -1023,10 +1023,11 @@ div#loading {
 	background-attachment: fixed !important;
 }
 .talkabout{
-	background-image:url("../img/TemplateImg/talkabout.jpg");
+	/*background-color:("red"); */
+	background-image:url("../img/TemplateImg/green.jpeg");
 }
 .awards{
-	background-image:url("../img/TemplateImg/awards.jpg");
+	background-image:url("../img/TemplateImg/images.jpeg");
 	
 }
 .milestones{
