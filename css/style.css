@@ -509,7 +509,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 header.home{
-	background-image:url("../img/TemplateImg/new.png");
+	background-image:url("../img/TemplateImg/Symbol.jpg");
 	background-size: cover;
 	background-position: 68% 0px;
 	background-attachment: fixed !important;
