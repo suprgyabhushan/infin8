@@ -110,6 +110,7 @@ header .container {
     padding-top: 100px;
     padding-bottom: 50px;
     background-color: "grey";
+  
 }
 
 header img {
@@ -508,9 +509,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 header.home{
-	background-image:url("../img/TemplateImg/Symbol.jpg");
+	background-image:url("../img/TemplateImg/new.png");
 	background-size: cover;
-	background-position: 50% 50%;
+	background-position: 68% 0px;
 	background-attachment: fixed !important;
 	background-repeat: repeat;
 	-webkit-animation: BackgroundAnimation 300s linear infinite;
@@ -520,7 +521,7 @@ header.home{
 	overflow: hidden;
 	width: 100%;
 	max-width:100%;
-	background-position: 50% 0px;
+	
 	min-width: 100%;
 	padding: 120px 0 120px 0;
 }
@@ -1014,10 +1015,10 @@ div#loading {
 }
 .grey-area{
 	width:100%;
-	padding:60px 0;
-	color:"red";
+	padding:10px;
+	color:#fff;
 	margin:auto;
-	text-align:center;
+	text-align: center;
 	background-size: cover;
 	background-position: 50% 50%;
 	background-attachment: fixed !important;
