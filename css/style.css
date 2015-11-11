@@ -139,11 +139,11 @@ header .intro-text .skills {
 header  .menu-icon {
     margin:auto;
 	width:100px;
-	color:#fff;
+	color:white;
 }
 header  .menu-icon i{
 	
-	 border-radius: 50%;
+	 border-radius: 100
 	 margin-top: 30px;
 	 color: #fff;
 }
@@ -154,6 +154,7 @@ header  .menu-icon:hover i {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 	}
+
 
 @media(min-width:768px) {
     header .container {
@@ -962,6 +963,25 @@ div#loading {
     background: url(../img/TemplateImg/loadingimage2.gif) no-repeat;
     cursor: wait;                
     }
+
+ div.menu-icon {
+    margin:auto;
+	width:100px;
+	color:yellow;
+}
+div.menu-icon i{
+	
+	 border-radius: 50%;
+	 margin-top: 30px;
+	 color: #fff;
+}
+div.menu-icon:hover i {
+	background-color:#fff; 
+	color:#2c3e50; 
+	-webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+	}
 .main_heading{
 	text-transform: uppercase;
 	font-weight: 300;
@@ -1025,10 +1045,10 @@ div#loading {
 }
 .talkabout{
 	/*background-color:("red"); */
-	background-image:url("../img/TemplateImg/talkabout.jpg");
+	background-image:url("../img/TemplateImg/blue1.jpg");
 }
 .awards{
-	background-image:url("../img/TemplateImg/LiveEvents01.jpg");
+	background-image:url("../img/TemplateImg/event2.jpg");
 	
 }
 .milestones{
