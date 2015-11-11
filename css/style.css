@@ -277,7 +277,7 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    display: block;
+    display: none;
     position: relative;
     margin: 0px;
     max-width: 400px;
