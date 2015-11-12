@@ -1043,6 +1043,16 @@ div.menu-icon:hover i {
 	background-position: 50% 50%;
 	background-attachment: fixed !important;
 }
+.grey-area1{
+	width:100%;
+	padding:10px;
+	color:#fff;
+	/*margin:auto;8*/
+	
+	background-size: cover;
+	background-position: 50% 50%;
+	background-attachment: fixed !important;
+}
 .talkabout{
 	/*background-color:("red"); */
 	background-image:url("../img/TemplateImg/blue1.jpg");
@@ -1052,7 +1062,7 @@ div.menu-icon:hover i {
 	
 }
 .milestones{
-	background-image:url("../img/TemplateImg/slide3.jpg");
+	background-image:url("../img/TemplateImg/green.jpg");
 }
 .process{
 	background-image:url("../img/TemplateImg/awards.jpg");
@@ -1256,9 +1266,10 @@ img.about-photo{
 .contact .section-heading hr{
 	border-color:#fff;
 }
-.element-item.portfolio-item{
+.element-item.portfolio-item.text-center{
 	max-width:33.333333333%;
 	padding:15px;
+	text-align: center;
 }
 
 .service-item {

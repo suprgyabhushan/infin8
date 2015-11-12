@@ -274,7 +274,7 @@ body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.42857143;
-  color: black;
+  color: ;
   background-color:white;
 }
 input,
@@ -2011,7 +2011,7 @@ select[multiple].input-lg {
   border: 2px solid transparent;
   white-space: nowrap;
   padding: 10px 15px;
-  font-size: 15px;
+  font-size: 30px;
   line-height: 1.42857143;
   border-radius: 4px;
   -webkit-user-select: none;
